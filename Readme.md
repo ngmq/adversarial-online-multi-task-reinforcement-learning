@@ -1,4 +1,4 @@
-Paper Link: https://arxiv.org/abs/2301.04268
+Paper: https://arxiv.org/abs/2301.04268
 
 Six steps to replicate the results:
 
