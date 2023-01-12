@@ -1,3 +1,5 @@
+Paper Link: https://arxiv.org/abs/2301.04268
+
 Six steps to replicate the results:
 
 - Step 1. Install rlberry. Please follow the guideline at https://rlberry.readthedocs.io/en/latest/installation.html
